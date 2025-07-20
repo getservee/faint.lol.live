@@ -1,0 +1,37 @@
+{
+  "FAINT-DCIC-DEJU-JR58": {
+    "valid": true,
+    "createdAt": "2025-07-19T23:55:26.832Z",
+    "expiresAt": "2025-07-26T23:55:26.832Z",
+    "duration": "7d",
+    "uses": 0
+  },
+  "FAINT-TMI9-3PO0-N8KJ": {
+    "valid": true,
+    "createdAt": "2025-07-20T00:06:49.320Z",
+    "expiresAt": "2025-07-27T00:06:49.320Z",
+    "duration": "7d",
+    "uses": 2
+  },
+  "FAINT-M4ZV-L358-3HUY": {
+    "valid": true,
+    "createdAt": "2025-07-20T00:12:25.665Z",
+    "expiresAt": "2025-07-27T00:12:25.665Z",
+    "duration": "7d",
+    "uses": 6
+  },
+  "FAINT-926X-I7GF-NA0K": {
+    "valid": true,
+    "createdAt": "2025-07-20T00:27:51.203Z",
+    "expiresAt": "2025-07-27T00:27:51.203Z",
+    "duration": "7d",
+    "uses": 5
+  },
+  "FAINT-Z5PX-XSNO-ZB71": {
+    "valid": true,
+    "createdAt": "2025-07-20T01:00:21.104Z",
+    "expiresAt": "2025-07-21T01:00:21.104Z",
+    "duration": "1d",
+    "uses": 6
+  }
+}
